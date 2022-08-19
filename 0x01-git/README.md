@@ -1,1 +1,1 @@
-My non-empty readme file
+My readme file
